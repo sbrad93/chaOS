@@ -1,4 +1,4 @@
-2019 - 2021 Browser-based Operating System in TypeScript
+2019 - 2021 chaOS : A Browser-based Operating System in TypeScript
 ========================================================
 
 Setup TypeScript
